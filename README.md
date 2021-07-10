@@ -1,7 +1,5 @@
 # team-profile-generator
 
-deployable example website https://brettfleming.github.io/team-profile-generator/
-
 ![Example webpage image](./dev_team_webpage.PNG)
 
 ## Task
