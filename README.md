@@ -32,3 +32,5 @@ The only one to contribute to this project so far is me.
 
 ## Tests
 no tests at the moment
+
+link to demo video https://youtu.be/CIp02aOf_gw
