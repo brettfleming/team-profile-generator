@@ -1,10 +1,10 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Example webpage image](./dev_team_webpage.PNG)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   },
   "devDependencies": {
     "jest": "^27.0.6"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
   }
 }
